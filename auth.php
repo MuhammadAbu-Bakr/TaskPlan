@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Login Failed</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="icon" type="png" href="assets/Logo.png" >
 </head>
 
 <body class="bg-light d-flex align-items-center justify-content-center min-vh-100">
